@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+
+# Packet Tracer
+*.pkt.bak
+*.pkt~
+
+# VS Code
+.vscode/
+
+# Logs
+*.log

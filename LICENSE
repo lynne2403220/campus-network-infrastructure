@@ -1,0 +1,37 @@
+
+---
+
+## 📄 File 3: `.gitignore`
+
+```gitignore
+# Arduino
+*.hex
+*.elf
+*.bin
+build/
+.ino.bin
+.ino.elf
+.ino.hex
+.ino.map
+
+# EMU8086
+*.obj
+*.lst
+*.map
+*.exe
+*.com
+*.lnk
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
